@@ -47,7 +47,7 @@ int main() {
 	        max = current;
 	        
 	    }
-	    cout << max << "\n";
+	    cout << max << "  ";
 	}
 	return 0;
 }
